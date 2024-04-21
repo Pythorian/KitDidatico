@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IndutorFlyback")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/IndutorFlyback.kicad_sym")(options "")(descr ""))
+)
